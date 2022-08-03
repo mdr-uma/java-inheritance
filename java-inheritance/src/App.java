@@ -5,5 +5,6 @@ public class App {
 		Factory factory1 = new Factory();
 		
 		factory1.design();
+		factory1.build();
 	}
 }
