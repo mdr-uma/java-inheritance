@@ -1,6 +1,6 @@
 
 public class Factory {
-	public static void main(String[] args) {
-
+	public  void design() {
+		System.out.println("Design the car");
 	}
 }
