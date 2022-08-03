@@ -8,5 +8,8 @@ public class App {
 		factory1.build();
 		
 		Car car1 = new Car();
+		
+		car1.design();
+		car1.build();
 	}
 }
