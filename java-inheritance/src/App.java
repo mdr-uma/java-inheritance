@@ -6,5 +6,7 @@ public class App {
 		
 		factory1.design();
 		factory1.build();
+		
+		Car car1 = new Car();
 	}
 }
