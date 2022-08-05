@@ -11,5 +11,6 @@ public class App {
 		
 		car1.design();
 		car1.build();
+		car1.brand();
 	}
 }
