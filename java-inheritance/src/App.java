@@ -2,6 +2,8 @@
 
 public class App {
 	public static void main(String[] args) {
+		//access modifiers: public, protected, default(lack of access modifier), private
+		
 		Factory factory1 = new Factory();
 		
 		factory1.design();
