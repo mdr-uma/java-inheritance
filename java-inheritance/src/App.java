@@ -6,6 +6,8 @@ public class App {
 		//eg of default method: void design() {
 		//System.out.println("Design the car");
 		//}
+		//public access modifier: can be access to any class anywhere regardless of packages.
+		
 		
 		Factory factory1 = new Factory();
 		
