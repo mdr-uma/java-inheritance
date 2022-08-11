@@ -7,7 +7,7 @@ public class App {
 		//System.out.println("Design the car");
 		//}
 		//public access modifier: can be access to any class anywhere regardless of packages.
-		
+		//protected access modifier: can be access to the class in the same package.
 		
 		Factory factory1 = new Factory();
 		
