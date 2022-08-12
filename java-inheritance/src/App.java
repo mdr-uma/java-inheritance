@@ -2,7 +2,7 @@
 
 public class App {
 	public static void main(String[] args) {
-		/*access modifiers: public, protected, default(lack of access modifier), private
+		/* access modifiers: public, protected, default(lack of access modifier), private
 		eg of default method: void design() {
 		System.out.println("Design the car");
 		}
